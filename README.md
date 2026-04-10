@@ -38,7 +38,43 @@
     <br>
     <img src="[https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)">
 
+===
 
+## 2. 기술 스택
+
+- **Language**
+  <br>
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)">
+
+- **Library**
+  - **Data**
+    <br>
+    <img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)">
+    <img src="[https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)">
+  
+  - **Visualization**
+    <br>
+    <img src="[https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)">
+    <img src="[https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)">
+  
+  - **ML / AutoML**
+    <br>
+    <img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)">
+    <img src="[https://img.shields.io/badge/PyCaret-6311C2?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/PyCaret-6311C2?style=for-the-badge&logo=python&logoColor=white)">
+    <img src="[https://img.shields.io/badge/Optuna-405BFF?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Optuna-405BFF?style=for-the-badge&logo=python&logoColor=white)">
+  
+  - **Modeling**
+    <br>
+    <img src="[https://img.shields.io/badge/LGBM-0080FF?style=for-the-badge&logo=LGBM&logoColor=white](https://img.shields.io/badge/LGBM-0080FF?style=for-the-badge&logo=LGBM&logoColor=white)">
+    <img src="[https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=XGBoost&logoColor=white](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=XGBoost&logoColor=white)">
+    <img src="[https://img.shields.io/badge/CatBoost-FFD200?style=for-the-badge&logo=CatBoost&logoColor=black](https://img.shields.io/badge/CatBoost-FFD200?style=for-the-badge&logo=CatBoost&logoColor=black)">
+    <img src="[https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white)">
+  
+  - **XAI**
+    <br>
+    <img src="[https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)">
+
+====
 ## 3. Data 정보
 ###  데이터 구성
 - Source : https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data
